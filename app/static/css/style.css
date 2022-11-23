@@ -1,0 +1,17 @@
+body{
+    background-color: #333;
+}
+.content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 200px;
+
+}
+.text{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color : white;
+    margin-top: 10px;
+}
